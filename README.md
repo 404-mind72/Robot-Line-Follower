@@ -17,6 +17,8 @@ Proyek ini merupakan implementasi dari robot line follower menggunakan Arduino U
 6. Kabel jumper
 7. Rangka Robot
 
-## 🖥️ Program Preview 
-1. Tampilan Robot line Follower
+## 🖥️ Tampilan Robot Line Follower 
+Tampilan Robot line Follower
 ![Tampilan Utama](assets/tampilan1.jpg)
+![Tampilan Utama](assets/tampilan2.jpg)
+![Tampilan Utama](assets/tampilan3.jpg)
