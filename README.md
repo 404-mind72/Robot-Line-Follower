@@ -1,5 +1,5 @@
 # 🤖 Robot Line Follower dengan Arduino Uno dan Sensor TCRT5000 (5 Channel) 
-Proyek ini merupakan implementasi dari robot line follower menggunakan Arduino Uno dan 5 channel sensor TCRT5000. Robot ini mampu mengikuti garis hitam di atas permukaan putih dengan akurasi yang cukup tinggi berkat penggunaan multiple channel IR sensor yang memberikan pembacaan lebih detail terhadap posisi garis.
+Proyek ini merupakan implementasi dari robot line follower menggunakan Arduino Uno dan 5 channel sensor TCRT5000. Robot ini mampu mengikuti garis hitam di atas permukaan putih dengan akurasi yang cukup tinggi berkat penggunaan multiple channel IR sensor yang memberikan pembacaan lebih detail terhadap posisi garis. ilakan gunakan, modifikasi, dan distribusikan bebas sesuai kebutuhanmu.
 
 #✨Fitur Utama 
 1. Menggunakan Arduino Uno sebagai mikrokontroler utama.
